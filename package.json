@@ -16,7 +16,7 @@
     "uselessbot"
   ],
   "author": "KabanFriends",
-  "license": "LGPL-3.0",
+  "license": "LGPL-2.1",
   "dependencies": {
     "@discordjs/rest": "^2.2.0",
     "@types/node-schedule": "^2.1.4",
