@@ -1,0 +1,32 @@
+{
+  "name": "uselessbot-barebone",
+  "version": "1.0.0",
+  "description": "A simplified public version of the UselessBot's core system",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "ts-node --files src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KabanFriends/UselessBotBarebone.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "uselessbot"
+  ],
+  "author": "KabanFriends",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "@types/node-schedule": "^2.1.4",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "enmap": "^5.9.8",
+    "extensible-custom-error": "^0.0.7",
+    "log4js": "^6.9.1",
+    "node-schedule": "^2.1.1",
+    "serverline": "github:KabanFriends/serverline",
+    "ts-node": "^10.9.1"
+  }
+}

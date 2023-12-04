@@ -1,0 +1,11 @@
+{
+    "ownerId": "292673382816677908",
+    "testGuilds": ["586458467183886337"],
+
+    "defaultLang": "ja",
+    "fallbackLang": "ja",
+
+    "eventTimeoutSeconds": 18000,
+    "embedColor": "#4e3975",
+    "commandsPerHelpPage": 10
+}

@@ -1,0 +1,32 @@
+{
+    "langCode": "ja",
+    "langName": "日本語",
+
+    "interaction.error.expired": ":x: このボタンは期限切れのため、使用できません。",
+
+    "category.utility.name": "便利",
+    "category.miscellaneous.name": "その他",
+
+    "command.error": ":x: コマンドの処理中にエラーが発生しました。",
+
+    "command.help.$description": "UselessBotのコマンド一覧を表示する",
+    "command.help.command.$name": "コマンド",
+    "command.help.command.$description": "コマンドの詳細情報を見る場合は入力",
+    "command.help.embed.title": "UselessBot ver.%s",
+    "command.help.embed.description": "コマンド総数 %s個\n`/help <コマンド名>` でコマンドについて詳しく調べる",
+    "command.help.embed.page": "コマンド (ページ %s/%s)",
+    "command.help.embed.page.category": "「%s」のコマンド (ページ %s/%s)",
+    "command.help.embed.command": "コマンド /%s",
+    "command.help.embed.categoryFormat": "【%s】",
+    "command.help.button.previous": "前のページ",
+    "command.help.button.next": "次のページ",
+    "command.help.button.all": "すべて",
+    "command.help.invalid": ":x: そのコマンドは存在しません。",
+
+    "command.lang.$description": "UselessBotの言語を変更する",
+    "command.lang.lang.$name": "言語",
+    "command.lang.lang.$description": "UselessBotのメッセージなどの言語",
+    "command.lang.embed.title": "言語設定 (/lang)",
+    "command.lang.embed.description": "UselessBotの表示言語が __%s__ に変更されました。",
+    "command.lang.noPermission": ":x: このコマンドを使うには権限「サーバー管理」が必要です。"
+}

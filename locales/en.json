@@ -1,0 +1,32 @@
+{
+    "langCode": "en-US",
+    "langName": "English",
+
+    "interaction.error.expired": ":x: This button is already expired.",
+
+    "category.utility.name": "Useful",
+    "category.miscellaneous.name": "Misc.",
+
+    "command.error": ":x: An error occurred while executing the command.",
+
+    "command.help.$description": "Shows the list of UselessBot commands",
+    "command.help.command.$name": "command",
+    "command.help.command.$description": "Type a command name to view detailed information",
+    "command.help.embed.title": "UselessBot v%s",
+    "command.help.embed.description": "%s commands total\n__/help <command>__ to for more details",
+    "command.help.embed.page": "Commands (%s/%s)",
+    "command.help.embed.page.category": "%s commands (%s/%s)",
+    "command.help.embed.command": "/%s",
+    "command.help.embed.categoryFormat": "[%s] ",
+    "command.help.button.previous": "Previous",
+    "command.help.button.next": "Next",
+    "command.help.button.all": "All",
+    "command.help.invalid": ":x: That command doesn't exist.",
+
+    "command.lang.$description": "Sets the display language of this bot",
+    "command.lang.lang.$name": "language",
+    "command.lang.lang.$description": "The language to use in UselessBot",
+    "command.lang.embed.title": "Language Settings (/lang)",
+    "command.lang.embed.description": "The display language of UselessBot has been set to __%s__.",
+    "command.lang.noPermission": ":x: You must have \"Manage Server\" permission to use this command."
+}
